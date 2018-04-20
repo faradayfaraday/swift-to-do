@@ -35,7 +35,7 @@ class Task: NSObject, NSCoding {
     //MARK: - Properties
     
     var text: String
-    var done: Bool // + functuanality will be added
+    var done: Bool // + functionality will be added
     var priority: Priority
     
     //MARK: - Init
